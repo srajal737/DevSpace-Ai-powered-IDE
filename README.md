@@ -15,19 +15,18 @@ With a modern Motion-powered interface, responsive design, and integrated credit
 ## 📸 Screenshots
 
 ### Home Page
-<img width="1892" height="900" alt="Screenshot 2026-10-31 012940" src="https://github.com/user-attachments/assets/cec6cb91-35bc-443c-ac80-b5c2d4ab9594" />
+<img width="1892" height="900" alt="Screenshot 2026-10-31 012940" src="https://github.com/user-attachments/assets/f15df7f5-f6da-4c58-a899-fc0f25a90a5e" />
 
-<img width="1872" height="887" alt="Screenshot 2026-11-02 195208" src="https://github.com/user-attachments/assets/cf0d59c7-5c54-40a0-8c75-efa84483facd" />
+<img width="1872" height="887" alt="Screenshot 2026-11-02 195208" src="https://github.com/user-attachments/assets/049ec95c-27bf-4de9-afd5-edd4df114426" />
 
 
 ### Dashboard
-
-<img width="1917" height="900" alt="Screenshot 2026-10-31 012902" src="https://github.com/user-attachments/assets/12558ba4-85ac-4ddf-b5c7-913f6b9bd68f" />
+<img width="1917" height="900" alt="Screenshot 2026-10-31 012902" src="https://github.com/user-attachments/assets/719c1f2f-9d31-4827-86e1-7b3951b0f3d3" />
 
 
 ### Project Workspace
 
-<img width="1917" height="910" alt="Screenshot 2026-10-31 011258" src="https://github.com/user-attachments/assets/75be547a-c0d0-461b-b72a-3a8394b78315" />
+<img width="1917" height="910" alt="Screenshot 2026-10-31 011258" src="https://github.com/user-attachments/assets/276b9542-9751-4ae3-a0ea-db6dc5ba5b82" />
 
 
 > Add your screenshots to the `screenshots` folder. You can also include dark mode, light mode, and mobile screenshots.
