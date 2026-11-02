@@ -10,6 +10,7 @@ Powered by Google Gemini, the integrated AI assistant can understand project con
 
 With a modern Motion-powered interface, responsive design, and integrated credit-based payments, Devspace brings the complete development experience directly to your browser.
 
+## with Dark and Light modes
 ---
 
 ## 📸 Screenshots
